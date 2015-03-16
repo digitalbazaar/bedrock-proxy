@@ -2,7 +2,7 @@
   "name": "bedrock-proxy",
   "version": "0.0.1",
   "description": "Bedrock proxy service",
-  "main": "index.js",
+  "main": "./lib/proxy",
   "scripts": {
     "test": "node test.js"
   },
@@ -35,6 +35,5 @@
   },
   "directories": {
     "lib": "./lib"
-  },
-  "main": "./lib/proxy"
+  }
 }
