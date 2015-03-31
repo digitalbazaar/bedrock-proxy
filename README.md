@@ -16,7 +16,7 @@ TODO
 
 ## Configuration
 
-TODO
+For documentation on configuration, see [config.js](./lib/config.js).
 
 ## How It Works
 
